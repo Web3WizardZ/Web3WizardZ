@@ -2,7 +2,7 @@
 
 Hey there! I'm Web3WizardZ a crypto degen. Let's build the future of finance together! 🚀🚀🚀🚀🚀
 
-I'm here to add to the scroll 📜
+I'm here to build on the scroll 📜
 
 🛠️ Current Project: RemitEase
 
@@ -19,7 +19,7 @@ This combination of cutting-edge technology and targeted problem-solving makes R
 
 💬 Get in contact with me on Discord! @zoomer_degen
 
-Thank you for visiting my profile! Let's connect. And don't forget to add to the scroll 📜
+Thank you for visiting my profile! Let's connect. And don't forget build on the scroll 📜
 
 ---
 
