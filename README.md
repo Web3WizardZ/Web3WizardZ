@@ -1,6 +1,4 @@
- 
-
-## Hey there! I'm Web3WizardZ a crypto degen. Let's build the future of finance together! 🚀🚀🚀🚀🚀
+**I am Web3WizardZ**
 
 Building on the scroll 📜
 
@@ -34,7 +32,7 @@ Solidity, Ethereum, and zkEVM for integrating Layer 2 solutions and smart contra
    - Skills in creating user-friendly interfaces.
 
 
-## 🤝I want to collabarte with fellow crypto enthusiasts and developers. Feel free to fork my repositories, open issues, and submit pull requests. Let's innovate and build the decentralized future together!
+## 🤝I want to collabarte with fellow crypto enthusiasts and developers. Let's innovate and build the decentralized future together!
 
 ## Donate
 If you would like to support my project, please donate to the crypto wallet:
@@ -43,7 +41,7 @@ Ethereum: 0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f
 
 ## 💬 Get in contact with me on Discord! @zoomer_degen
 
-## Thank you for visiting my profile! Let's connect. And don't forget build on the scroll 📜
+## Thank you for visiting my profile! Let's connect. And don't forget to build on the scroll 📜
 
 ---
 
