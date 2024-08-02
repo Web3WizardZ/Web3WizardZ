@@ -13,7 +13,7 @@ RemitEase stands out from competitors through its integration of Scroll's zkEVM 
 - **Focus on Emerging Markets:** Specifically targeting the African remittance market, RemitEase addresses the unique challenges of high fees, slow transfer times, and security concerns prevalent in these regions, thus making a substantial positive impact on the lives of the beneficiaries.
 This combination of cutting-edge technology and targeted problem-solving makes RemitEase a novel and powerful solution in the remittance industry.
 
-##🧑🏻‍💻 Expertise
+## 🧑🏻‍💻 Expertise
 
 1. **Blockchain and Smart Contract Development:**
 
