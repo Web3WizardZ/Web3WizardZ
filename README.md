@@ -41,7 +41,7 @@ Ethereum: 0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f
 
 ## 💬 Get in contact with me on Discord! @zoomer_degen
 
-## Thanks for visiting my profile! Let's connect. And don't forget to build on the scroll 📜
+## Thanks for visiting my profile! Let's connect. And don't forget to build on scroll 📜
 
 ---
 
