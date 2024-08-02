@@ -1,6 +1,6 @@
 **I am Web3WizardZ**
 
-Building on the scroll 📜
+Building on scroll 📜
 
 ## 🛠️ Current Project: RemitEase
 
