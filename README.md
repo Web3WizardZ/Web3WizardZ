@@ -19,10 +19,10 @@ This combination of cutting-edge technology and targeted problem-solving makes R
 
 Solidity, Ethereum, and zkEVM for integrating Layer 2 solutions and smart contract automation.
 
-3. **Mobile Integration:**
+2. **Mobile Integration:**
    - Proficiency in developing and integrating mobile applications with blockchain technology.
 
-2. **Zero-Knowledge Proofs:**
+3. **Zero-Knowledge Proofs:**
    - Advanced knowledge in cryptographic techniques to ensure transaction privacy and security.
 
 4. **FinTech and Remittance Services:**
