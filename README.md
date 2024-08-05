@@ -17,7 +17,7 @@ This combination of cutting-edge technology and targeted problem-solving makes R
 
 1. **Blockchain and Smart Contract Development:**
 
-Solidity, Ethereum, and zkEVM for integrating Layer 2 solutions and smart contract automation.
+   - Solidity, Ethereum, and zkEVM for integrating Layer 2 solutions and smart contract automation.
 
 2. **Mobile Integration:**
    - Proficiency in developing and integrating mobile applications with blockchain technology.
