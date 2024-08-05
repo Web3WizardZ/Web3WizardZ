@@ -28,7 +28,7 @@ Solidity, Ethereum, and zkEVM for integrating Layer 2 solutions and smart contra
 4. **FinTech and Remittance Services:**
    - Experience with financial services, particularly in optimizing remittance processes for cost-effectiveness and speed.
 
-5. **User-Centered Design:**
+5. **Able to make user-Centered Designs:**
    - Skills in creating user-friendly interfaces.
 
 
@@ -41,7 +41,7 @@ Ethereum: 0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f
 
 ## 💬 Get in contact with me on Discord! @zoomer_degen
 
-## Thanks for visiting my profile! Let's connect. And don't forget to build on scroll 📜
+## Thank you for visiting my profile! Let's connect. And don't forget to build on scroll 📜
 
 ---
 
