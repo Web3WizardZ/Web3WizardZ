@@ -1,4 +1,4 @@
-**I am Web3WizardZ**
+I am **Web3WizardZ**
 
 Building on scroll *📜*
 
