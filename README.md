@@ -34,12 +34,13 @@ This combination of cutting-edge technology and targeted problem-solving makes R
 
 ## 🤝I want to collabarte with fellow crypto enthusiasts and developers. Let's innovate and build the decentralized future together!
 
-## Donate
-If you would like to support my project, please donate to the crypto wallet:
+## 💬 Get in contact with me on Discord! @zoomer_degen
+
+
+Donate
+If you would like to support my project. My crypto wallet:
 
 Ethereum: *0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f*
-
-## 💬 Get in contact with me on Discord! @zoomer_degen
 
 ## Thank you for visiting my profile! Let's connect. And don't forget to build on scroll 📜
 
