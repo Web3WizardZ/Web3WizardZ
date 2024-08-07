@@ -37,7 +37,7 @@ This combination of cutting-edge technology and targeted problem-solving makes R
 ## Donate
 If you would like to support my project, please donate to the crypto wallet:
 
-Ethereum: 0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f
+Ethereum: *0x2e0b29afe75cdf6f7a66c26e8636354bca1faa6f*
 
 ## 💬 Get in contact with me on Discord! @zoomer_degen
 
