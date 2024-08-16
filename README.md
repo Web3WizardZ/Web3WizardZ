@@ -2,7 +2,7 @@ I am **Web3WizardZ**
 
 Building on scroll *📜*
 
-## 🛠️ Current Project: RemitEase
+## 🛠️ Current Project: RemitEase.
 
 RemitEase stands out from competitors through its integration of Scroll's zkEVM Layer 2 technology, which uniquely combines low transaction fees, high throughput, and enhanced security using zero-knowledge proofs. Unlike traditional remittance services that charge high fees and have slow transfer times, RemitEase offers:
 
