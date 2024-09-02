@@ -1,4 +1,4 @@
-I am **Web3WizardZ** an I am building on 
+I am **Web3WizardZ** an I am building on 📜
 
 ## 🛠️ Current Project: RemitEase
 
