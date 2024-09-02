@@ -1,6 +1,4 @@
-I am **Web3WizardZ**
-
-Building on scroll *📜*  
+I am **Web3WizardZ** an I am building on **scroll**
 
 ## 🛠️ Current Project: RemitEase
 
