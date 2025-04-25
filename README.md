@@ -1,4 +1,4 @@
-I am Web3WizardZ
+I am Magnanimous
 
 🛠️ Current Project: RemittEase
 RemitEase stands out from competitors through its integration of advanced zero-knowledge Layer 2 technology, which uniquely combines low transaction fees, high throughput, and enhanced security using zero-knowledge proofs. Unlike traditional remittance services that charge high fees and have slow transfer times, RemitEase offers:
